@@ -22,7 +22,7 @@ const Home = ({type}) => {
           }`,
     {
       headers:{
-        token: "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyZGMwMzZmOWQ2MDc1NGNmYWQ4MWY4NCIsImlzQWRtaW4iOnRydWUsImlhdCI6MTY1ODYxMTE4MCwiZXhwIjoxNjU5MDQzMTgwfQ.UcZ8gIPYyLHRnLwLrcVilKTvIC2pwX64bsYHPLzn8uA"
+        token: "Bearer ######"
       },
     }
     );
