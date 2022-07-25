@@ -1,3 +1,7 @@
+# Netflix Clone
+
+ a full Netflix Clone. Firebase for storing all metadata like movies, shows, trailers, covers.
+
 ## Features of the Netflix Client
 Register
 Sign Up
